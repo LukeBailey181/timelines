@@ -170,6 +170,7 @@ const App = () => {
       in the years to come, most notably through sharecropping.
     </p>
   </VerticalTimelineElement>
+
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
     date="1884"
@@ -180,17 +181,101 @@ const App = () => {
     <h4 className="vertical-timeline-element-subtitle">Mark Twain</h4>
     <h4>Summary</h4>
     <p>
-      Creative Direction, Visual Design
+    “The Adventures of Huckleberry Finn” is arguably Mark Twain's most impactful piece of work.
+    It is set during the mid 19th century during slavery. Huckleberry Finn, who escapes his abusive father,
+    embarks on a raft journey along with Jim, a runaway slave. Despite societal norms and his own initial prejudices,
+    Huck forms a close bond with Jim, and together they face various challenges, meeting a host of unique characters
+    along the way. The novel concludes with the freeing of Jim from slavery by his now deceased former owner,
+    and Huck’s promise to escape the grips of society by heading west. 
     </p>
     <h4>Analysis</h4>
     <p>
-
+    A fascinating theme in the Novel is Huck’s relationship with Christianity, society, and morality.
+    As the book progresses, Huck is placed in a number of situations in which he must weigh societal
+    norms and christian doctrine against his own morality. This is most clear when Huck has to decide
+    whether to turn Jim in. He knows by the rules of society he “should”, but in the end follows his own
+    moral code and chooses not to, concluding that if he is sent to hell for such actions then sobeit. 
     </p>
   </VerticalTimelineElement>
+
   <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="1997"
     iconStyle={{ background: 'black', color: '#fff' }}
-    //icon={<StarIcon />}
-  />
+    //icon={<SchoolIcon />}
+  >
+    <h3 className="vertical-timeline-element-title">Beloved</h3>
+    <h4 className="vertical-timeline-element-subtitle">Toni Morrison</h4>
+    <h4>Summary</h4>
+    <p>
+    Winner of the 1988 Pulitzer Prize for fiction, “Beloved” presents the story of a former enslaved woman Sethe,
+    now living in Cincinnati. The story revolves around Sethe's life at 124 Bluestone Road, where she's tormented
+    by the ghost of her dead baby child, and her traumatic past during slavery. One day a woman who calls hersel
+    Beloved appears on the steps of the house, and Sethe begins to look after her. The character of “Beloved” 
+    is strange and seemingly supernatural in nature. We later find out Sethe killed her baby to save her from
+    being recaptured into slavery, and Beloved appears to be a reincarnation of the child. The book climaxes
+    with Beloved draining the life energy from Sethe, before being exorcised from 124 by members of the local community. 
+    </p>
+    <h4>Analysis</h4>
+    <p>
+    One of the interesting features of Beloved is its non-chronological structure—the novel features frequent flashbacks
+    and retellings of past events that are presented in a non chronological order. Whilst the events of the present move 
+    forward in time as expected, the past is presented in a jumbled manner, leaving the reader confused and disoriented.
+    This leads to fascinating effect in which the reader's experience matches that of the characters. Both spend much of
+    the novel reckoning with and understanding how the past affects the events of the present.  
+    </p>
+  </VerticalTimelineElement>
+
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="2008"
+    iconStyle={{ background: 'black', color: '#fff' }}
+    //icon={<SchoolIcon />}
+  >
+    <h3 className="vertical-timeline-element-title">This Republic of Suffering: Death and the American Civil War </h3>
+    <h4 className="vertical-timeline-element-subtitle">Drew Faust</h4>
+    <h4>Summary</h4>
+    <p>
+    It is estimated that approximately 600,000 people died during the American Civil War. “This Republic of Suffering”
+    is a non-fiction book that explores the impact that death on this scale had on individuals, families, and
+    the wider american society at large. One powerful theme through the book is that of religion, and how many
+    reconciled their christian beliefs with the magnitude of slaughter that was witnessed during the war. 
+    </p>
+    <h4>Analysis</h4>
+    <p>
+    The Civil War marked a clear departure from the idea of a “good” and “noble” death at war. 
+    It was one of the first “living room” wars—photographs were taken after battles documenting the horrific aftermaths,
+    and engravings of these images were circulated in newspapers. Beyond the visual depictions of war, the sheer amount
+    of deaths meant that almost all families and communities were affected. 
+    </p>
+  </VerticalTimelineElement>
+
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="2017"
+    iconStyle={{ background: 'black', color: '#fff' }}
+    //icon={<SchoolIcon />}
+  >
+    <h3 className="vertical-timeline-element-title">Romancing Slavery</h3>
+    <h4 className="vertical-timeline-element-subtitle">Toni Morrison</h4>
+    <h4>Summary</h4>
+    <p>
+    “Romancing Slavery” is an essay written by Toni Morrison and first published in her book “The Origin of Other”. 
+    Amongst other things, the essay explores ways in which slavery was justified in the late 1700s and 1800s. 
+    It presents excerpts from medical publications that used incorrect scientific reasoning to, in Morrison’s words,
+     present blacks as “not quite like cattle, yet not recognizably human”. She also presents how novel’s such as “Uncle Tom’s Cabin” 
+     romanticized slavery—that is attempts to “render [slavery] acceptable, even preferable, by humanizing, even cherishing it. 
+    </p>
+    <h4>Analysis</h4>
+    <p>
+    Morrison’s exploration of how Slavery was justified is enlightening 
+    for any student studying this time period. It is easy to view those who were 
+    complicit in slavery as simply “evil”, but Morrison digs deeper and shows the ways 
+    in which such evil can arise—as she states in the essay “no one is born a racist and 
+    there is no fetal predisposition to sexism”.
+    </p>
+  </VerticalTimelineElement>
+
 </VerticalTimeline>
    // </div>
   );

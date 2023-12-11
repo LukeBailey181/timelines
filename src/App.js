@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-import Timeline from './components/timeline';
-import EventModal from './components/event_modal';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import './App.css';
@@ -94,6 +92,20 @@ const App = () => {
     he presents as a loyal servant to Cereno, he is in fact the most intelligent character of the book.
     </p>
   </VerticalTimelineElement>
+
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="1860"
+    iconStyle={{ background: '#B02507', color: '#fff' }}
+  >
+    <h2 className='vertical-timeline-element-title'>
+      South Carolina Succeeds
+    </h2>
+    <p>
+      South Carolina is the first state to succeed from the union on December 20, 1860
+    </p>
+  </VerticalTimelineElement>
+
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
     date="1861"
@@ -119,6 +131,21 @@ const App = () => {
     and not the end of slavery.
     </p>
   </VerticalTimelineElement>
+
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="1861"
+    iconStyle={{ background: '#B02507', color: '#fff' }}
+  >
+    <h2 className='vertical-timeline-element-title'>
+      The Start of the Civil War - Attack on Fort Sumter 
+    </h2>
+    <p>
+      On April 12, 1861, confederate troops attack the Union controlled Fort Sumter in South Carolina. 
+      This marks the official start of the Civil War.
+    </p>
+  </VerticalTimelineElement>
+
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
     date="1863"
@@ -168,6 +195,63 @@ const App = () => {
     emancipation proclamation. Despite the freed status of those writing the letter, we see that they are really free in
      name only—they are cheated, forced to work, and still mistreated. This story would be repeated across the country
       in the years to come, most notably through sharecropping.
+    </p>
+  </VerticalTimelineElement>
+
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="1865"
+    iconStyle={{ background: '#B02507', color: '#fff' }}
+  >
+    <h2 className='vertical-timeline-element-title'>
+      End of the Civil War - Lee Surrenders 
+    </h2>
+    <p>
+      On April 9, 1865, General Robert E. Lee surrenders to General Ulysses S. Grant at Appomattox Court House in Virginia.
+      Although the war was not formally declared over until August 20, 1866, the surrender of Lee
+      is widely considered the functional end of the Civil War.
+    </p>
+  </VerticalTimelineElement>
+
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="1865"
+    iconStyle={{ background: '#B02507', color: '#fff' }}
+  >
+    <h2 className='vertical-timeline-element-title'>
+      Assassination of Abraham Lincoln
+    </h2>
+    <p>
+      On April 14, 1865, Abraham Lincoln is assassinated by John Wilkes Booth at Ford's Theatre in Washington, D.C.
+      This was only 41 days after his second inaugural address.
+    </p>
+  </VerticalTimelineElement>
+
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="1865"
+    iconStyle={{ background: '#5908B9', color: '#fff' }}
+  >
+    <h2 className='vertical-timeline-element-title'>
+      Beginning of Reconstruction
+    </h2>
+    <p>
+      Reconstruction, the turbulent period of reintegration of the South and roughly 4 million newly
+      freed slaves into the Union, begins after the Civil War. 
+    </p>
+  </VerticalTimelineElement>
+
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    date="1877"
+    iconStyle={{ background: '#5908B9', color: '#fff' }}
+  >
+    <h2 className='vertical-timeline-element-title'>
+      End of Reconstruction
+    </h2>
+    <p>
+      Many scholars place the end of the reconstruction period at 1877, when the last federal troops
+      were removed from the South.
     </p>
   </VerticalTimelineElement>
 

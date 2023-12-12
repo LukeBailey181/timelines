@@ -93,7 +93,7 @@ const App = () => {
         <h3 className="vertical-timeline-element-title">The Confessions of Nat Turner</h3>
         <h4>Summary</h4>
         <p>
-        Nat Turner was an enslaved African-American preacher who believed he received visions from God, 
+        Nat Turner was an enslaved African American preacher who believed he received visions from God, 
         guiding him towards an insurrection. In August 1831, Turner led a group of enslaved and free black 
         people in a rebellion. They went from plantation to plantation, liberating slaves and 
         killing white inhabitants, aiming to strike fear in the heart of the institution of slavery.
@@ -101,13 +101,13 @@ const App = () => {
         In the wake of the revolt, there was widespread fear and violent reprisals against the black population.
         <br></br>
         <br></br>
-        Turner was interviewed by Thomas R. Gray while in jail awaiting trial. Gray published "The Confessions of Nat Turner," 
+        Turner was interviewed by Thomas R. Gray while in jail awaiting trial. Gray published <em>The Confessions of Nat Turner</em> 
         presenting it as Turner's own account of his life and the reasons behind the rebellion.
         </p>
         <h4>Analysis</h4>
         <p> 
         There is much debate over how authentic the confessions of Nat Turner are and how much was doctored by Gray.
-        What is clear however is the consequence of Turner’s action. On the one hand, it led to severe reprisals for 
+        What is clear, however, is the consequence of Turner’s action. On the one hand, it led to severe reprisals for 
         enslaved people. Southern states prohibited masters from teaching slaves to read and write, and many black
         preachers were removed and replaced with whites. In contrast to this, it led to a swell of abolitionist thinking 
         in the North by providing evidence that southern rhetoric about slavery as a pastoral institution was false. 
@@ -123,18 +123,18 @@ const App = () => {
         <h4 className="vertical-timeline-element-subtitle">Harriet Beecher Stowe</h4>
         <h4>Summary</h4>
         <p>
-        Uncle Tom's Cabin" is a novel written by Harriet Beecher Stowe. The book is set in the antebellum US.
+        <em>Uncle Tom's Cabin</em> is a novel written by Harriet Beecher Stowe. The book is set in the antebellum US.
         It tells the story of Uncle Tom, an enslaved African American man, and the various characters he encounters.
         Uncle Tom is sold and moved between various plantations in, ending with that of Simon Legree. Legree’s 
         treatment of Tom is horrific, ending in Tom's eventual death. 
         </p>
         <h4>Analysis</h4>
         <p>
-        Uncle Tom’s Cabin sits as a centerpiece of antebellum anti-slavery literature. Stowe presents a harrowing account of slavery, 
+        <em>Uncle Tom’s Cabin</em> sits as a centerpiece of antebellum anti-slavery literature. Stowe presents a harrowing account of slavery, 
         most notably through the truly evil character of Legree. The novel was influential in galvanizing anti-slavery sentiment 
         in the Northern states. Its publication is often cited as a contributing factor to the start of the American 
         Civil War—In a meeting between Abraham Lincoln and Stowe in 1862, Lincoln apocryphally said she was the 
-        “woman who wrote the book that started this great war”.
+        “woman who wrote the book that started this great war.”
         </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
@@ -147,7 +147,7 @@ const App = () => {
         <h4 className="vertical-timeline-element-subtitle">Herman Melville</h4>
         <h4>Summary</h4>
         <p>
-        Herman Melville's "Benito Cereno" is a novella first published in 1855. 
+        Herman Melville's <em>Benito Cereno</em> is a novella first published in 1855. 
         The story is set on a Spanish slave ship, the San Dominick, which is encountered by an American whaling ship, 
         the Bachelor's Delight, off the coast of Chile. The American captain, Amasa Delano, boards the ship to offer assistance, 
         as the San Dominick appears to be in distress. Delano meets the Spanish captain, Benito Cereno, and a group of slaves. Cereno acts 
@@ -158,8 +158,8 @@ const App = () => {
         <p>
         “Benito Cereno” is a particularly unsettling work to read. Throughout the novella, it is clear that something is wrong,
         that Cereno is hiding something, and that Delano is missing it. When it is eventually revealed that the slaves have been in control 
-        the entire time, the reader is left in a similar state of shock to the Delano. Babo’s character is of considerable note—whilst outwardly 
-        he presents as a loyal servant to Cereno, he is in fact the most intelligent character of the book.
+        the entire time, the reader is left in a similar state of shock to the Delano. Babo’s character is especially noteworthy—while outwardly 
+        he presents as blindly following Cereno's orders, he is in fact a shrewd and careful thinker in his own right.
         </p>
       </VerticalTimelineElement>
 
@@ -169,10 +169,10 @@ const App = () => {
         iconStyle={{ background: '#B02507', color: '#fff' }}
       >
         <h2 className='vertical-timeline-element-title'>
-          South Carolina Succeeds
+          South Carolina Secedes
         </h2>
         <p>
-          South Carolina is the first state to succeed from the union on December 20, 1860
+          South Carolina is the first state to secede from the union on December 20, 1860
         </p>
       </VerticalTimelineElement>
 
@@ -186,17 +186,17 @@ const App = () => {
         <h4 className="vertical-timeline-element-subtitle">Abraham Lincoln</h4>
         <h4>Summary</h4>
         <p>
-        Abraham Lincoln was inaugurated on March 4th 1861. After winning the election in 1860, South Carolina succeeded, 
+        Abraham Lincoln was inaugurated on March 4th 1861. After winning the election in 1860, South Carolina seceded, 
         followed by 6 other states before Lincoln’s inauguration: Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas.
         In April 1861, the first bloodshed of the Civil War would be committed by southerners at the attack on Fort Sumter. 
-        In Lincoln’s first address, taking place this attack, focuses on reconciliation with the South, assuring southerners 
+        Lincoln’s first address focuses on reconciliation with the South, assuring southerners 
         that he did not intend to end slavery.  
         </p>
         <h4>Analysis</h4>
         <p>
         Lincoln’s first inaugural address was widely criticized by abolitionists as being unacceptably tolerant and supportive of slavery. 
         In a scathing rebuke of Lincoln’s speech, Frederick Douglass wrote, “Mr. Lincoln opens his address by announcing his complete 
-        loyalty to slavery in the slave states”. Whilst Lincoln eventually enacts the emancipation proclamation, he was by no means a staunch 
+        loyalty to slavery in the slave states.” While Lincoln eventually enacts the emancipation proclamation, he was by no means a staunch 
         abolitionist, especially at the beginning of his tenure. At this time it is clear that Lincoln’s primary concern is that of the Union, 
         and not the end of slavery.
         </p>
@@ -211,7 +211,7 @@ const App = () => {
           The Start of the Civil War - Attack on Fort Sumter 
         </h2>
         <p>
-          On April 12, 1861, confederate troops attack the Union controlled Fort Sumter in South Carolina. 
+          On April 12, 1861, confederate troops attacked the Union controlled Fort Sumter in South Carolina. 
           This marks the official start of the Civil War.
         </p>
       </VerticalTimelineElement>
@@ -228,12 +228,12 @@ const App = () => {
         <p>
         “On the first day of January, in the year of our Lord one thousand eight hundred and sixty-three, 
         all persons held as slaves within any State or designated part of a State, the people whereof shall then
-        be in rebellion against the United States, shall be then, thenceforward, and forever free”. 
+        be in rebellion against the United States, shall be then, thenceforward, and forever free.” 
         </p>
         <h4>Analysis</h4>
         <p>
-        The emancipation proclamation served as a critical step towards the freedom of enslaved people, but notably well short of 
-        this goal in many ways. Most significantly, it only applied to states that had succeeded from the union (meaning loyal border 
+        The emancipation proclamation served as a critical step towards the freedom of enslaved people, but notably fell short of 
+        this goal in many ways. Most significantly, it only applied to states that had seceded from the union (meaning loyal border 
         slave states were unaffected), and exempted parts of the confederacy that were already under union control. It did however 
         contribute to a clear redefinement of the war from being about the preservation of the union to the ending of slavery. 
         Lincoln would make these thoughts explicitly clear in his second inaugural  address on March 4, 1865, stating “all knew that
@@ -335,20 +335,20 @@ const App = () => {
         <h4 className="vertical-timeline-element-subtitle">Mark Twain</h4>
         <h4>Summary</h4>
         <p>
-        “The Adventures of Huckleberry Finn” is arguably Mark Twain's most impactful piece of work.
+        <em>The Adventures of Huckleberry Finn</em> is arguably Mark Twain's most impactful piece of work.
         It is set during the mid 19th century during slavery. Huckleberry Finn, who escapes his abusive father,
         embarks on a raft journey along with Jim, a runaway slave. Despite societal norms and his own initial prejudices,
         Huck forms a close bond with Jim, and together they face various challenges, meeting a host of unique characters
-        along the way. The novel concludes with the freeing of Jim from slavery by his now deceased former owner,
+        along the way. The novel concludes with the freeing of Jim by his now deceased former owner,
         and Huck’s promise to escape the grips of society by heading west. 
         </p>
         <h4>Analysis</h4>
         <p>
-        A fascinating theme in the Novel is Huck’s relationship with Christianity, society, and morality.
+        A fascinating theme in the novel is Huck’s relationship with Christianity, society, and morality.
         As the book progresses, Huck is placed in a number of situations in which he must weigh societal
         norms and christian doctrine against his own morality. This is most clear when Huck has to decide
-        whether to turn Jim in. He knows by the rules of society he “should”, but in the end follows his own
-        moral code and chooses not to, concluding that if he is sent to hell for such actions then sobeit. 
+        whether to turn Jim in. He knows by the rules of society he should, but in the end follows his own
+        moral code and chooses not to, concluding that if he is sent to hell for such actions then so be it. 
         </p>
       </VerticalTimelineElement>
 
@@ -362,10 +362,10 @@ const App = () => {
         <h4 className="vertical-timeline-element-subtitle">Toni Morrison</h4>
         <h4>Summary</h4>
         <p>
-        Winner of the 1988 Pulitzer Prize for fiction, “Beloved” presents the story of a former enslaved woman Sethe,
+        Winner of the 1988 Pulitzer Prize for fiction, <em>Beloved</em> presents the story of a former enslaved woman Sethe,
         now living in Cincinnati. The story revolves around Sethe's life at 124 Bluestone Road, where she's tormented
-        by the ghost of her dead baby child, and her traumatic past during slavery. One day a woman who calls hersel
-        Beloved appears on the steps of the house, and Sethe begins to look after her. The character of “Beloved” 
+        by the ghost of her dead baby child and her traumatic past during slavery. One day a woman who calls herself
+        Beloved appears on the steps of the house, and Sethe begins to look after her. The character of Beloved 
         is strange and seemingly supernatural in nature. We later find out Sethe killed her baby to save her from
         being recaptured into slavery, and Beloved appears to be a reincarnation of the child. The book climaxes
         with Beloved draining the life energy from Sethe, before being exorcised from 124 by members of the local community. 
@@ -373,9 +373,9 @@ const App = () => {
         <h4>Analysis</h4>
         <p>
         One of the interesting features of Beloved is its non-chronological structure—the novel features frequent flashbacks
-        and retellings of past events that are presented in a non chronological order. Whilst the events of the present move 
+        and retellings of past events that are presented in a non chronological order. While the events of the present move 
         forward in time as expected, the past is presented in a jumbled manner, leaving the reader confused and disoriented.
-        This leads to fascinating effect in which the reader's experience matches that of the characters. Both spend much of
+        This leads to a fascinating effect in which the reader's experience matches that of the characters. Both spend much of
         the novel reckoning with and understanding how the past affects the events of the present.  
         </p>
       </VerticalTimelineElement>
@@ -390,10 +390,10 @@ const App = () => {
         <h4 className="vertical-timeline-element-subtitle">Drew Faust</h4>
         <h4>Summary</h4>
         <p>
-        It is estimated that approximately 600,000 people died during the American Civil War. “This Republic of Suffering”
+        It is estimated that approximately 600,000 people died during the American Civil War. <em>This Republic of Suffering</em>
         is a non-fiction book that explores the impact that death on this scale had on individuals, families, and
         the wider american society at large. One powerful theme through the book is that of religion, and how many
-        reconciled their christian beliefs with the magnitude of slaughter that was witnessed during the war. 
+        reconciled their Christian beliefs with the magnitude of slaughter that was witnessed during the war. 
         </p>
         <h4>Analysis</h4>
         <p>
@@ -414,19 +414,19 @@ const App = () => {
         <h4 className="vertical-timeline-element-subtitle">Toni Morrison</h4>
         <h4>Summary</h4>
         <p>
-        “Romancing Slavery” is an essay written by Toni Morrison and first published in her book “The Origin of Other”. 
+        "Romancing Slavery" is an essay written by Toni Morrison and first published in her book <em>The Origin of Other</em>. 
         Amongst other things, the essay explores ways in which slavery was justified in the late 1700s and 1800s. 
         It presents excerpts from medical publications that used incorrect scientific reasoning to, in Morrison’s words,
-        present blacks as “not quite like cattle, yet not recognizably human”. She also presents how novel’s such as “Uncle Tom’s Cabin” 
-        romanticized slavery—that is attempts to “render [slavery] acceptable, even preferable, by humanizing, even cherishing it. 
+        present blacks as “not quite like cattle, yet not recognizably human.” She also presents how novels such as <em>Uncle Tom’s Cabin</em>
+        romanticized slavery—they attempt to “render [slavery] acceptable, even preferable, by humanizing, even cherishing it."
         </p>
         <h4>Analysis</h4>
         <p>
-        Morrison’s exploration of how Slavery was justified is enlightening 
+        Morrison’s exploration of how slavery was justified is enlightening 
         for any student studying this time period. It is easy to view those who were 
-        complicit in slavery as simply “evil”, but Morrison digs deeper and shows the ways 
-        in which such evil can arise—as she states in the essay “no one is born a racist and 
-        there is no fetal predisposition to sexism”.
+        complicit in slavery as simply evil, but Morrison digs deeper and shows the ways 
+        in which such evil can arise—as she states in the essay, “no one is born a racist and 
+        there is no fetal predisposition to sexism.”
         </p>
       </VerticalTimelineElement>
 

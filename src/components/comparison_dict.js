@@ -80,7 +80,7 @@ const LFI_UTC = `“Uncle Tom’s Cabin” presents the fractures in American so
 Lincoln’s election. Stowe, a northerner, presents a clearly anti-slavery viewpoint in her book. Moreover, at the 
 end of the book she calls directly on the reader to aid in the abolition of slavery.  After its release, the book 
 galvanized the abolitionist movement in the north, and was reviled in the South, being widely banned. When Lincoln 
-took to the steps of the US capitol for his first inaugural address, these fractures had manifested as succession. 
+took to the steps of the US capitol for his first inaugural address, these fractures had manifested as secession. 
 While Lincoln tries to reassure the South in this address, war is inevitable.`
 
 const TRS_UTC = `At the end of Uncle Tom’s Cabin, Harriet Beecher Stowe states that if slavery is not abolished 

@@ -156,7 +156,7 @@ const App = () => {
         </p>
         <h4>Analysis</h4>
         <p>
-        “Benito Cereno” is a particularly unsettling work to read. Throughout the novella, it is clear that something is wrong,
+        <em>Benito Cereno</em> is a particularly unsettling work to read. Throughout the novella, it is clear that something is wrong,
         that Cereno is hiding something, and that Delano is missing it. When it is eventually revealed that the slaves have been in control 
         the entire time, the reader is left in a similar state of shock to the Delano. Babo’s character is especially noteworthy—while outwardly 
         he presents as blindly following Cereno's orders, he is in fact a shrewd and careful thinker in his own right.
